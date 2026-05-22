@@ -1,0 +1,4 @@
+pillow
+adafruit-blinka
+adafruit-circuitpython-ssd1306
+adafruit-circuitpython-busdevice
